@@ -1,0 +1,11 @@
+.done {
+  text-decoration: line-through;
+}
+
+.button {
+  margin-left: auto;
+}
+
+.ui .checkbox {
+  padding-top: 50px;
+}
